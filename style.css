@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; margin: 2rem; }
+#app { max-width: 600px; margin: auto; text-align: center; }
+button.option { display: block; width: 100%; margin: 1rem 0; padding: 1rem; }
+table      { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td     { border: 1px solid #ccc; padding: .5rem; text-align: left; }
+th         { background: #f0f0f0; }
+tr:nth-child(even) { background: #fafafa; }
